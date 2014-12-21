@@ -1,0 +1,11 @@
+{
+  "singular": "thing",
+  "plural": "things",
+  "properties": [
+    { "name": "_id", "required": true, "client": "id" },
+    { "name": "name", "required": true, "type": "string", "maxLength": 255 },
+    { "name": "noclient", "type": "string", "serveronly": true },
+    { "name": "created", "type": "date" },
+    { "name": "updated", "type": "date" }
+  ]
+}

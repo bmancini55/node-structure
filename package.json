@@ -1,0 +1,15 @@
+{
+  "name": "node-structure",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "express": "^4.10.2",
+    "mongodb": "^1.4.22",
+    "q": "^1.1.2",
+    "underscore": "^1.7.0"
+  }
+}
