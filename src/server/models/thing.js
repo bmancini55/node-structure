@@ -8,7 +8,6 @@ var util      = require('util')
 
 
 
-
 var ThingModel = Model.create(schema);
 module.exports = ThingModel;
 
